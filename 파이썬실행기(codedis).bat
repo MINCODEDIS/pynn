@@ -51,5 +51,5 @@ TIMEOUT 1
 cls
 start pyn\qj.cmd
 cls
-echo Current version: 0.0.2
+echo Current version: 0.0.3
 TIMEOUT 10
